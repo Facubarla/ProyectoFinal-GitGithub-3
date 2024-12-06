@@ -43,7 +43,7 @@ int main() {
 }
 
 int sumar(int a, int b) {
-    return 0;
+    return a + b;
 }
 
 int restar(int a, int b) { //Matias Facchini
