@@ -51,5 +51,7 @@ int restar(int a, int b) {
 }
 
 int multiplicar(int a, int b) {
-    return 0;
+    int Total=0;
+    Total=a*b;
+    return Total;
 }
