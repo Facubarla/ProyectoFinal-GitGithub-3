@@ -49,7 +49,7 @@ int sumar(int a, int b) {
 int restar(int a, int b) { //Matias Facchini
     return a-b;
 }
-
+//
 int multiplicar(int a, int b) {
     int Total=0;
     Total=a*b;
