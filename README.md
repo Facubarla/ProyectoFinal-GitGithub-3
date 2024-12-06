@@ -1,3 +1,8 @@
+Trabajo de Barloa, Burger, Facchini.
+
+
+
+
 # Proyecto Final - Git/GitHub
 
 Este repositorio corresponde al ejercicio práctico final del curso de Git y GitHub de la Escuela de Informática 2024.
